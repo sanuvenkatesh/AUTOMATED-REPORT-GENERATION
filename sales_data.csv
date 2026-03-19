@@ -1,0 +1,25 @@
+Date,Region,Salesperson,Product,Units_Sold,Unit_Price,Revenue,Target
+2024-01-05,North,Alice Johnson,Widget Pro,120,49.99,5998.80,5000
+2024-01-12,South,Bob Martinez,Widget Lite,85,24.99,2124.15,3000
+2024-01-18,East,Carol Smith,Gadget Plus,200,89.99,17998.00,15000
+2024-01-25,West,David Lee,Widget Pro,95,49.99,4749.05,5000
+2024-02-03,North,Alice Johnson,Gadget Plus,175,89.99,15748.25,15000
+2024-02-09,South,Bob Martinez,Widget Pro,110,49.99,5498.90,5000
+2024-02-14,East,Carol Smith,Widget Lite,300,24.99,7497.00,6000
+2024-02-20,West,David Lee,Gadget Plus,160,89.99,14398.40,15000
+2024-03-01,North,Alice Johnson,Widget Lite,220,24.99,5497.80,5000
+2024-03-08,South,Bob Martinez,Gadget Plus,130,89.99,11698.70,12000
+2024-03-15,East,Carol Smith,Widget Pro,180,49.99,8998.20,8000
+2024-03-22,West,David Lee,Widget Lite,250,24.99,6247.50,6000
+2024-04-02,North,Alice Johnson,Gadget Plus,210,89.99,18897.90,18000
+2024-04-10,South,Bob Martinez,Widget Lite,190,24.99,4748.10,4000
+2024-04-18,East,Carol Smith,Gadget Plus,145,89.99,13048.55,14000
+2024-04-25,West,David Lee,Widget Pro,105,49.99,5248.95,5000
+2024-05-05,North,Alice Johnson,Widget Pro,140,49.99,6998.60,6000
+2024-05-12,South,Bob Martinez,Gadget Plus,115,89.99,10348.85,11000
+2024-05-19,East,Carol Smith,Widget Lite,280,24.99,6997.20,7000
+2024-05-26,West,David Lee,Gadget Plus,195,89.99,17548.05,16000
+2024-06-03,North,Alice Johnson,Widget Lite,165,24.99,4123.35,4000
+2024-06-10,South,Bob Martinez,Widget Pro,135,49.99,6748.65,6000
+2024-06-17,East,Carol Smith,Widget Pro,155,49.99,7748.45,7000
+2024-06-24,West,David Lee,Widget Lite,230,24.99,5747.70,5500
